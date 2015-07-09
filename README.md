@@ -3,5 +3,6 @@
 
 ------------
 
-Run pbgui.py
+Run pbgui.py:
+
 <code>python pbgui.py</code>
