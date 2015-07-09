@@ -4,4 +4,4 @@
 ------------
 
 Run pbgui.py
->>> python pbgui.py
+<code>python pbgui.py</code>
